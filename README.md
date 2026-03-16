@@ -1,4 +1,4 @@
-# hettp-server-in-c
+# http-server-in-c
 
 This repository contains the source code of my https server, build completley in C!
 
